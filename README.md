@@ -27,7 +27,7 @@ This repository is organized by the following notebooks:
 | 4 | [`EDA with Visualization`](./4.EDA%20with%20data%20visualization%20-edadataviz.ipynb) | Explore data through graphs and trends |
 | 5 | [`EDA with SQL`](./5.%20EDA%20with%20SQL%20-%20jupyter-labs-eda-sql-coursera_sqllite.ipynb) | Query data using SQLite and SQL skills |
 | 6 | [`Interactive Map (Folium)`](./6.%20Interactive%20Visual%20Analytics%20with%20Folium%20-lab_jupyter_launch_site_location.ipynb) | Visualize launch sites and outcomes on a map |
-| 7 | [`Dashboard (Plotly Dash)`](./7.%20Machine%20Learning%20Prediction%20-%20SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb) | Build a dynamic dashboard to filter and analyze launch success |
+| 7 | [`Dashboard (Plotly Dash)`](https://github.com/DanStockwell/IBM-Applied-Data_Science-Capstone-Project/blob/main/spacex-dash-app.py) | Build a dynamic dashboard to filter and analyze launch success |
 | 8 | [`Machine Learning Prediction`](./7.%20Machine%20Learning%20Prediction%20-%20SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb) | Apply and evaluate classification models (Logistic Regression, SVM, Decision Tree, KNN) |
 
 ---
