@@ -47,7 +47,7 @@ This repository is organized by the following notebooks:
 - Feature Engineering: One-Hot Encoding, Labeling Success/Failure  
 - Models: Logistic Regression, SVM, Decision Tree, KNN  
 - Evaluation Metrics: Accuracy, F1 Score, Jaccard Index, Confusion Matrix  
-- Best Model: Decision Tree (based on F1 Score and interpretability)
+- Best Model: SVM
 
 ---
 
